@@ -21,7 +21,7 @@ section{
 section{
       padding-left: 5%;
 }
-#sk{
+.sk{
     color: rgb(245, 147, 111);
 }
 #an{
@@ -32,4 +32,41 @@ section{
      size: 5px;
      border-radius: 7px;
        
+}.mel img{
+    width: 150%;
+    
+} 
+.ma{
+       padding-left: 30%;
+       padding-top: 10%;
+
+}
+.wo{
+    text-align: center;
+    padding: 50px;
+}
+ 
+.ba{
+     padding-left: 30%;
+}
+.tam{
+    margin: 5px;
+}
+.dh{
+    color: darkorange;
+}
+.af{
+    text-decoration: none;
+    background-color: rgb(230, 159, 28);
+    padding: 5px;
+    
+}
+#ha{
+    background-color: coral;
+    
+}
+.sa{
+border: 10%;
+padding-left: 50%;
+ 
 }
